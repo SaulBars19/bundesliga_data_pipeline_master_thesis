@@ -180,8 +180,8 @@ jupyter notebook notebooks/bundesliga_data_scraping_pipeline.ipynb
 
 ## How to Cite This Repository (Harvard Style)
 If you use this code or dataset, please cite the following notebook:
-Barrientos Rivera, J.S. (2025) *bundesliga_data_pipeline_master_thesis.ipynb*.  
-Jupyter Notebook, GitHub Repository. Available at: https://github.com/SaulBars19/bundesliga_data_pipeline_master_thesis (Accessed: 11.12.2025).
+
+Barrientos Rivera, J.S. (2025) *bundesliga_data_pipeline_master_thesis.ipynb*. Jupyter Notebook, GitHub Repository. Available at: https://github.com/SaulBars19/bundesliga_data_pipeline_master_thesis (Accessed: 11.12.2025).
 
 
 ## License
