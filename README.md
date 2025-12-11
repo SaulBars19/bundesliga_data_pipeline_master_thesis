@@ -126,7 +126,7 @@ It contains:
 4. **Formation Performance Metrics**  
    - Aggregate Score  
    - Average Score  
-   - Variance (ddof=1)  
+   - Variance  
    - Standard Deviation  
    - Data Quality Classification (High / Medium / Low)
 
